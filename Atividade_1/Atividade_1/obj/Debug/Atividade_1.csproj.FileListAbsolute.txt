@@ -1,0 +1,8 @@
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\bin\Debug\Atividade_1.exe.config
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\bin\Debug\Atividade_1.exe
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\bin\Debug\Atividade_1.pdb
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\obj\Debug\Atividade_1.csproj.AssemblyReference.cache
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\obj\Debug\Atividade_1.csproj.SuggestedBindingRedirects.cache
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\obj\Debug\Atividade_1.csproj.CoreCompileInputs.cache
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\obj\Debug\Atividade_1.exe
+D:\PA\Atividade_4_PA\Atividade_1\Atividade_1\obj\Debug\Atividade_1.pdb
